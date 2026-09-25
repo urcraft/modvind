@@ -1,4 +1,4 @@
-# MODVIND â€” The Commute to Herning
+# MODVIND — The Commute to Herning
 
 A small browser game about a very persistent Danish headwind. Ride from MCH Arena to AU Herning through central Herning in a roughly one-minute arcade commute.
 
@@ -30,12 +30,12 @@ Energy drains over time; puddles, sheep and tractors cause additional loss and s
 
 ## Route and visual references
 
-The current short route goes MCH Arena â†’ city approach â†’ Bredgade â†’ Torvet / Herning Kirke â†’ Ã˜stergade â†’ Silkeborgvej corridor â†’ Birk Centerpark â†’ AU Herning. It has **2,000 game metres** and targets **45â€“75 seconds** of skilled play. These compressed distances are not real-world route measurements or navigation directions. The original longer 7.4 km countryside route has been replaced.
+The current short route goes MCH Arena → city approach → Bredgade → Torvet / Herning Kirke → Østergade → Silkeborgvej corridor → Birk Centerpark → AU Herning. It has **2,000 game metres** and targets **45–75 seconds** of skilled play. These compressed distances are not real-world route measurements or navigation directions. The original longer 7.4 km countryside route has been replaced.
 
 City scenery includes shopfronts, sidewalks, streetlights, the paved town square and a simplified red-brick Herning Kirke with clock and slate spire. MCH Arena, neighboring Boxen and the white AU campus remain the start/end landmarks. Shops and obstacle locations are fictional. Three lanes are a gameplay abstraction.
 
 References:
-- [Herning municipality: Torvet, Bredgade and Ã˜stergade](https://kommuneplan2025.herning.dk/kommuneplanrammer/herning-bymidte-11/11c4)
+- [Herning municipality: Torvet, Bredgade and Østergade](https://kommuneplan2025.herning.dk/kommuneplanrammer/herning-bymidte-11/11c4)
 - [Herning Kirke](https://herningkirke.dk/)
 - [MCH Arena and adjacent Boxen](https://www.mch.dk/om-os/lokationer/mch-arena)
 - [AU campus architecture](https://omnibus.au.dk/arkiv/vis/artikel/campus-guide-herning-bliv-gode-venner-med-receptionisten-heidi-og-nyd-den-taette-relation-med-baade-undervisere-og-studerende)
