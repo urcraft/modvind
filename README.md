@@ -2,6 +2,8 @@
 
 A small browser game about a very persistent Danish headwind. Ride from MCH Arena to AU Herning through central Herning in a roughly one-minute arcade commute.
 
+Made on **25 September 2026** at **AU BTECH** during an **ARTIG session on Coding agents**.
+
 ## Run
 
 Play online: https://urcraft.github.io/modvind/
